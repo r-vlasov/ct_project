@@ -1,0 +1,8 @@
+16 : accuracy = 1.000000 : runtime = 0.610034
+24 : accuracy = 0.630000 : runtime = 1.494268
+32 : accuracy = 0.360000 : runtime = 3.255959
+40 : accuracy = 0.210000 : runtime = 6.483520
+48 : accuracy = 0.140000 : runtime = 10.796034
+56 : accuracy = 0.100000 : runtime = 17.988152
+64 : accuracy = 0.050000 : runtime = 28.372954
+72 : accuracy = 0.020000 : runtime = 40.848470
